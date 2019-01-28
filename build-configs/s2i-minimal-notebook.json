@@ -38,7 +38,7 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "https://github.com/jupyter-on-openshift/jupyter-notebooks",
+                        "uri": "https://github.com/anand-ocp/jupyter-notebooks",
                         "ref": "2.1.0"
                     },
                     "contextDir": "minimal-notebook"
@@ -87,7 +87,7 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "https://github.com/jupyter-on-openshift/jupyter-notebooks",
+                        "uri": "https://github.com/anand-ocp/jupyter-notebooks",
                         "ref": "2.1.0"
                     },
                     "contextDir": "minimal-notebook"
