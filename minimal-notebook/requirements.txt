@@ -4,3 +4,4 @@ jupyterlab==0.35.4
 jupyter_kernel_gateway==2.1.0
 dask==1.0.0
 distributed==1.25.0
+tornado<6.0.0
